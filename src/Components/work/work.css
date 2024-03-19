@@ -1,0 +1,26 @@
+#work_main{
+height: 700px;
+}
+
+
+.work_left h4 {
+    font-family: "Roboto Serif", sans-serif;
+    font-size: 48px;
+    font-weight: 600;
+    color: #282938;
+    padding-top: 180px;
+}
+
+.work_left p {
+    font-family: "Roboto Serif", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #282938;
+}
+
+.work_left a {
+    font-family: "Roboto Serif", sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    color: #2405F2;
+}
